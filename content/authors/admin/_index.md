@@ -13,9 +13,9 @@ status:
   icon: ☕️
 
 # Organizations/Affiliations
-#organizations:Nanjing University
+organizations:Nanjing University
  name: Nanjing University
-url: "https://www.nju.edu.cn/"
+ url: "https://www.nju.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: India-Aisa Collision

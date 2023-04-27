@@ -14,7 +14,7 @@ status:
 
 # Organizations/Affiliations
 organizations:Nanjing University
-name: Nanjing University
+ name: Nanjing University
 url: "https://www.nju.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)

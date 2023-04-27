@@ -9,7 +9,7 @@ superuser: true
 role: 'Ph.D studet of Geology'
 
 # Status emoji
-status:HAPPY
+status:
   icon: ☕️
 
 # Organizations/Affiliations

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shihua Xu (许石华)
+ title: Shihua Xu (许石华)
 
 # Is this the primary user of the site?
 superuser: true

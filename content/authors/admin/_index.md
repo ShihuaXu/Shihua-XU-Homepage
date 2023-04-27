@@ -6,16 +6,16 @@ title: Shihua Xu (许石华)
 superuser: true
 
 # Role/position
-role: 'Ph.D studet of Geology'
+role: 'Ph.D student of Geology'
 
 # Status emoji
 status:
   icon: ☕️
 
 # Organizations/Affiliations
-#organizations:Nanjing University
-#- name: Nanjing University
-#  url: "https://www.nju.edu.cn/"
+organizations:Nanjing University
+name: Nanjing University
+url: "https://www.nju.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: India-Aisa Collision
